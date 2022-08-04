@@ -1,4 +1,4 @@
-# SQL and Scripting challenges
+# This repo contains the solutions for the SQL and Scripting challenges. 
 
-this repo has the solutions. 
+
 
