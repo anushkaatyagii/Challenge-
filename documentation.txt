@@ -1,0 +1,22 @@
+q1 (SQL Question 1):
+
+Gain = <close> - <open>
+Percentage Gain = ( Gain / <open> ) * 100 
+
+
+q2 (SQL Question 2):
+
+Input start_date and start_time in yyyy-mm-dd and hh:mm:ss format respectively. 
+
+
+q3 (SQL Question 3):
+
+-> The temporary table PriceDifference stores the absolute difference between 
+the opening price of the first trade of the day and the closing price of the last trade of the day
+in descending order and selects the top 3 date values. 
+
+-> For each date, temporary table MaxHigh stores the time values at which 
+the maximum High price was achieved. 
+
+-> Finally these two tables are joined with matching date values. 
+
