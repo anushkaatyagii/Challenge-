@@ -1,0 +1,12 @@
+HostNames -> IP
+sqlsrv2010.citi.local -> 192.168.1.250
+employees.citi.local, employees -> 192.168.1.200
+www.intranet.citi.local, intranet -> 192.168.5.32
+core1.citi.local -> 192.168.1.1
+route1.citi.local -> 192.168.5.1
+feed1.citi.local -> 192.168.5.20
+feed2.citi.local -> 192.168.1.20
+cluster1.citi.local -> 192.168.5.10
+ws01-abc.cit.local -> 192.168.1.30
+ws02-3ef.cit.local -> 192.168.5.23
+HostNames -> IP
